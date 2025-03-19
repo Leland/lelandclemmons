@@ -1,6 +1,6 @@
 import { ReactNode } from "react";
 import { Home } from "./pages/Home";
-import { Blog } from "./pages/Blog";
+// import { Blog } from "./pages/Blog";
 
 interface Route {
   name: string;
@@ -14,11 +14,11 @@ const routes: Route[] = [
     path: "",
     component: Home,
   },
-  {
-    name: "Blog",
-    path: "",
-    component: Blog,
-  },
+  // {
+  //   name: "Blog",
+  //   path: "",
+  //   component: Blog,
+  // },
 ];
 
 export default routes;

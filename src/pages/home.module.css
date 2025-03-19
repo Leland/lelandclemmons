@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  gap: 1em;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  padding-bottom: 50px;
+}
+
+@media (min-width: 800px) {
+  .main {
+    flex-direction: row;
+  }
+}
+
+.portrait {
+  flex-shrink: 0;
+}
