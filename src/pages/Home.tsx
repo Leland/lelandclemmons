@@ -1,4 +1,4 @@
-import classes from "./Home.module.css";
+import classes from "./home.module.css";
 import imgUrl from "../assets/images/me.png";
 
 export function Home() {
