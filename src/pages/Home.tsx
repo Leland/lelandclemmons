@@ -24,10 +24,10 @@ export function Home() {
         </p>
         <p>
           I also love to <em>teach</em> and <em>lead</em>! I've led teams in
-          learning React, the advanced parts of git, React, accessibility (e.g
-          WCAG and ARIA), and beyond. I've managed teams consisting of back- and
-          front end engineers, designers, and product managers in shipping
-          software used in Fortune 500 companies with Agile methodologies.
+          learning React, the advanced parts of git, accessibility (e.g WCAG and
+          ARIA), and beyond. I've managed teams consisting of back end and front
+          end engineers, designers, and product managers in shipping software
+          used in Fortune 500 companies with Agile methodologies.
         </p>
       </section>
     </main>
